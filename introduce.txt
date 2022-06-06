@@ -1,0 +1,4 @@
+Name: Tran Hoang Nam
+Group: M3212
+Semester: 2
+Subject: Programming C++ OOP
